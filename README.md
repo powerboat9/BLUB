@@ -1,3 +1,3 @@
-# GSI
+# BLUB
 
-Graphical Stuff Interface
+It's a Blob of Blub!
